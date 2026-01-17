@@ -19,7 +19,6 @@ Soy Henry Guillen, desarrollador de software con enfoque en backend e inteligenc
 Nidia Jael Muñoz Oviedo:
 Estudiante y entusiasta del desarrollo de software, con conocimientos básicos en Python, JavaScript, TypeScript y PostgreSQL. Me interesa seguir aprendiendo y fortaleciendo mis habilidades en programación y tecnología a través de proyectos prácticos.
 
-
 Daniel Alejandro Lasso Molina:  [github.com/Gebertwo](https://github.com/Gebertwo)
 
 **Desarrollador Backend** con dominio en **TypeScript, JavaScript y Python**. Me especializo en el desarrollo de aplicaciones robustas utilizando **Node.js** y **Django**, con un manejo experto de bases de datos relacionales como **PostgreSQL** y **MySQL**. 
@@ -27,6 +26,8 @@ Daniel Alejandro Lasso Molina:  [github.com/Gebertwo](https://github.com/Gebertw
 Omar Jhon Hualpa Ascuntar:  
 Soy Omar Hualpa, desarrollador de software con interés en aplicaciones web y arquitectura de sistemas. Manejo principalmente C#, .NET y SQL, y me enfoco en crear soluciones modulares, eficientes y mantenibles, integrando buenas prácticas de desarrollo colaborativo.
 
+Marily Yojana Botina Galeano:
+Mi nombre es Marily Botina, soy estudiante y tengo un interés particular en el desarrollo de software orientado principalmente al frontend. Cuento con conocimientos básicos en Python y PostgreSQL. Me motiva seguir fortaleciendo mis habilidades técnicas y profundizar en el aprendizaje y aplicación de metodologías ágiles, con el fin de mejorar la calidad, eficiencia y organización en los procesos de desarrollo de software.
 
 ### Especialidades:
 * **Backend:** Node.js, Django.
